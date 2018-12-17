@@ -18,8 +18,8 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Body", name: "body", widget: "markdown", required: false }
       - {label: "Topics", name: "matters", widget: "string", required: false } 
       - {label: "Public link", name: "link", widget: "string", required: false }   
-      - {label: "Cover Image", name: "cover", widget: "image", default: "", media_library: , config: , multiple: false, required: false }
-      - {label: "Header Image", name: "header", widget: "image", default: "", media_library: , config: , multiple: false, required: false }
+      - {label: "Cover Image", name: "cover", widget: "image", required: false }
+      - {label: "Header Image", name: "header", widget: "image", required: false }
       - {label: "Display image on timeline", name: "preview", widget: "boolean", default: false, required: false }
       - {label: "Display some banner", name: "banner", widget: "boolean", default: true, required: false }   
       - {label: "Post is featured", name: "featured", widget: "boolean", default: false, required: false }
