@@ -6,8 +6,8 @@ featured: false
 preview: true
 is_post: true
 banner: false
-cover: yourtempo--website--cover__timeline.gif
-header: yourtempo--website--cover__post.gif
+cover: yourtempo--website/yourtempo--website--cover__timeline.gif
+header: yourtempo--website/yourtempo--website--cover__post.gif
 matters: Product design
 period: 2018
 external: true
@@ -20,4 +20,4 @@ Tempo is an email client that helps you focus. I helped build the email client a
 
 [yourtempo.co](https://www.yourtempo.co/)
 
-![](../../assets/images/yourtempo--website--content--0.png)
+![](../../assets/images/posts/yourtempo--website/yourtempo--website--content--0.png)

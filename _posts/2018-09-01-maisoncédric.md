@@ -8,10 +8,9 @@ featured: false
 preview: false
 is_post: true
 banner: false
-cover:
-header:
 matters: Product design
 period: 2018
 external: true
 link: 'https://www.instagram.com/maisoncedric/'
 ---
+
