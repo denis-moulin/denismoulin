@@ -7,8 +7,8 @@ featured: false
 preview: false
 is_post: true
 banner: false
-cover: movingtocph--website/movingtocph--website--cover__timeline.png
-header: movingtocph--website/movingtocph--website--cover__post.png
+cover: movingtocph--website--cover__timeline.png
+header: movingtocph--website--cover__post.png
 matters: Brand identity, Front-end development
 period: 2017
 external: true
@@ -21,4 +21,4 @@ In a two-week sprint, we (at Founders) built the best playbook to help foreigner
 
 [https://movingtocph.com](https://movingtocph.com)
 
-![](../../assets/images/posts/movingtocph--website/movingtocph--website--content--0.png)
+![](../../assets/images/posts/movingtocph--website--content--0.png)

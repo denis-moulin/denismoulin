@@ -7,8 +7,8 @@ featured: false
 preview: false
 is_post: true
 banner: false
-cover: getfigure--website/getfigure--website--cover__timeline.png
-header: getfigure--website/getfigure--website--cover__post.png
+cover: getfigure--website--cover__timeline.png
+header: getfigure--website--cover__post.png
 matters: Brand identity, Front-end development
 period: 2015
 external: true
@@ -21,4 +21,4 @@ Figure is the first banking app exclusively for freelancers. While building the 
 
 [https://denismoulin.com/h/figure](https://denismoulin.com/h/figure/)
 
-![](../../assets/images/posts/getfigure--website/getfigure--website--content--0.png)
+![](../../assets/images/posts/getfigure--website--content--0.png)

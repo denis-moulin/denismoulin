@@ -7,8 +7,8 @@ featured: false
 preview: false
 is_post: true
 banner: false
-cover: dixie--website--02/dixie--website--02--cover__timeline.png
-header: dixie--website--02/dixie--website--02--cover__post.png
+cover: dixie--website--02--cover__timeline.png
+header: dixie--website--02--cover__post.png
 matters: Brand identity, Front-end development
 period: 2017
 external: true
@@ -21,4 +21,4 @@ Second iteration of Dixie’s marketing website. I led the design and rethinking
 
 [https://denismoulin.com/h/dixie/2017](https://denismoulin.com/h/dixie/2017)
 
-![](../../assets/images/posts/dixie--website--02/dixie--website--02--content--0.png)
+![](../../assets/images/posts/dixie--website--02--content--0.png)

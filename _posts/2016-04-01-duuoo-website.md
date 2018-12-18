@@ -7,8 +7,8 @@ featured: false
 preview: false
 is_post: true
 banner: false
-cover: duuoo--website/duuoo--website--cover__timeline.png
-header: duuoo--website/duuoo--website--cover__post.png
+cover: duuoo--website--cover__timeline.png
+header: duuoo--website--cover__post.png
 matters: Brand identity, Front-end development
 period: 2016
 external: true
@@ -21,4 +21,4 @@ While working on the Duuoo product, I helped the team to re-shape their marketin
 
 [https://denismoulin.com/h/duuoo](https://denismoulin.com/h/duuoo/)
 
-![](../../assets/images/posts/duuoo--website/duuoo--website--content--0.png)
+![](../../assets/images/posts/duuoo--website--content--0.png)
