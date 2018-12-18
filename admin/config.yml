@@ -40,7 +40,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Body", name: "body", widget: "markdown", required: false }
       - {label: "Role", name: "role", widget: "string", required: false }
       - {label: "Period", name: "date-infos", widget: "string", required: false }
-      - {label: "Public link", name: "externallink", widget: "string", required: false }
-      - {label: "Company logo", name: "cover", widget: "image", required: false }
+      - {label: "Public link", name: "externallink", widget: "string", required: true }
+      - {label: "Company logo", name: "cover", widget: "image", required: true }
       - {label: "Categories", name: "categories", widget: "list", default: ["experience"], required: false }
       - {label: "Force post layout", name: "is_post", widget: "boolean", default: true, required: false }
