@@ -10,7 +10,7 @@ cover: screen-shot-2018-12-15-at-11.06.34-am.png
 header: screen-shot-2018-12-15-at-11.06.34-am.png
 preview: true
 banner: false
-featured: true
+featured: false
 is_post: true
 ---
 Reader supported since 1992
