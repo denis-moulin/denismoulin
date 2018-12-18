@@ -6,8 +6,8 @@ description: Reader supported since 1992
 matters: 'Magazine, Art direction'
 external: false
 link: 'https://www.instagram.com/surfersjournal/'
-cover: screen-shot-2018-12-15-at-11.06.34-am.png
-header: screen-shot-2018-12-15-at-11.06.34-am.png
+cover:
+header:
 preview: true
 banner: false
 featured: false
