@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Breatheroffices
 date: 2018-07-01 00:00:00 Z
 description: Breatheroffices is Breather new offer for renting office spaces.

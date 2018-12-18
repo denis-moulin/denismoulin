@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Headlight Website
 date: 2018-02-01 00:00:00 Z
 description: Headlight empowers employees to build resilience against stress and improve their performance.

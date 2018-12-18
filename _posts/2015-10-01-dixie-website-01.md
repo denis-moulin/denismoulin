@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Dixie.io (1.0)
 date: 2015-10-01 00:00:00 Z
 description: While working on Dixie's product, I developed their brand identity and coded their marketing website.

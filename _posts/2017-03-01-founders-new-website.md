@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Founders Website
 layout: post
 date: 2017-03-01 00:00:00 Z

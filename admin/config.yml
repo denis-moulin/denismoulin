@@ -18,6 +18,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Short Description", name: "description", widget: "string", tagname: "h3", required: true }
       - {label: "Body", name: "body", widget: "markdown", required: false }
       - {label: "Topics", name: "matters", widget: "string", required: false }
+      - {label: "External link", name: "external", widget: "boolean", default: false, required: false }
       - {label: "Public link", name: "link", widget: "string", required: false }
       - {label: "Cover Image", name: "cover", widget: "image", required: false }
       - {label: "Header Image", name: "header", widget: "image", required: false }
@@ -40,7 +41,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Body", name: "body", widget: "markdown", required: false }
       - {label: "Role", name: "role", widget: "string", required: false }
       - {label: "Period", name: "date-infos", widget: "string", required: false }
-      - {label: "Public link", name: "externallink", widget: "string", required: true }
+      - {label: "Public link", name: "link", widget: "string", required: true }
       - {label: "Company logo", name: "cover", widget: "image", required: true }
       - {label: "Categories", name: "categories", widget: "list", default: ["experience"], required: false }
       - {label: "Force post layout", name: "is_post", widget: "boolean", default: true, required: false }

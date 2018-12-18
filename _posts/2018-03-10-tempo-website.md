@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Tempo, Focused Email Client
 date: 2018-03-10 00:00:00 Z
 description: Tempo is an email client that helps you focus. I helped build the initial MVP version of the client in addition to the marketing page.
