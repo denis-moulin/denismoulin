@@ -178,7 +178,7 @@ a {
               -webkit-transition-delay: 0.3s;
               transition-delay: 0.3s;
             }
-      
+
             &-mail, &-direction{
               transform: translateX($spacing-unit/10) translateY(0) rotate(0);
               -webkit-transition: transform 0.2s;

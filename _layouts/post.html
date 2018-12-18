@@ -7,7 +7,7 @@ layout: default
     {% if page.cover %}
     <div class="post-header">
       <figure class="post-cover">
-        <img  class="lazy" data-original="{{ site.url }}/assets/images/posts/{{ page.header }}">
+        <img  class="lazy" data-original="{{ site.url }}/assets/images/{{ page.header }}">
       </figure>
     </div>
     {% else %}
@@ -66,7 +66,7 @@ layout: default
             <li class="post cover">
               <figure>
                 {% if page.previous.cover %}
-                <img class="lazy" data-original="{{ site.url }}/assets/images/posts/{{ page.previous.cover }}">
+                <img class="lazy" data-original="{{ site.url }}/assets/images/{{ page.previous.cover }}">
                 {% else %}
                 <svg width="60px" viewBox="0 0 22 22">
                   <g transform="translate(11.000000, 11.000000) scale(-1, 1) translate(-11.000000, -11.000000) translate(2.000000, 6.000000)" stroke="none" stroke-width="1" fill="#000000" fill-rule="evenodd">

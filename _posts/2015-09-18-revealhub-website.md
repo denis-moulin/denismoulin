@@ -6,8 +6,8 @@ featured: false
 preview: false
 is_post: true
 banner: false
-cover: revealhub--website/revealhub--website--cover__timeline.png
-header: revealhub--website/revealhub--website--cover__post.png
+cover: revealhub--website--cover__timeline.png
+header: revealhub--website--cover__post.png
 matters: Brand identity, Front-end development
 period: 2015
 external: true
@@ -20,4 +20,4 @@ Reveal is a machine learning engine focused on recruitment. I helped the team to
 
 [https://denismoulin.com/h/revealhub](https://denismoulin.com/h/revealhub/)
 
-![](../../assets/images/posts/revealhub--website/revealhub--website--content--0.png)
+![](../../assets/images/revealhub--website--content--0.png)

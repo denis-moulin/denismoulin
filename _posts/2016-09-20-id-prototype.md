@@ -6,8 +6,8 @@ featured: false
 preview: false
 is_post: true
 banner: false
-cover: identity--slide/identity--slide--cover__timeline.png
-header: identity--slide/identity--slide--cover__post.png
+cover: identity--slide--cover__timeline.png
+header: identity--slide--cover__post.png
 matters: Design process
 period: 2015
 external: true
