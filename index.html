@@ -1,0 +1,65 @@
+---
+layout: default
+---
+
+{% include _hero.html %}
+
+<div class="container">
+  <div class="post-list">
+  {% for post in site.posts %}
+    {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+    {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
+      {% if forloop.first %}
+      <span class="date" id="{{ this_year }}-ref">{{this_year}}</span>
+      <hr>
+      {% endif %}
+      <div class="post-item post">
+        {% if post.external == true %}
+        <a href="{{ post.link }}" target="_blank">
+        {% else %}
+        <a href="{{ post.url }}">
+        {% endif %}
+          <ul>
+            <div class="action--icon">
+            {% if post.external == true %}
+            <span class="status-icon status-icon-external"></span>
+            {% else %}
+
+            <span class="status-icon status-icon-direction"></span>
+            {% endif %}
+            </div>
+            {% if post.featured == true %}
+            {% else %}
+              {% if post.preview == true %}
+              <li class="cover">
+                <figure class="tiny">
+                  <img class="lazy" data-original="{{ site.url }}/assets/images/posts/{{ post.cover }}" with="auto" height="100%">
+                </figure>
+              </li>
+              {% else %}
+              {% endif %}
+
+              {% endif %}
+            <li class="infos">
+              <p class="title">{{ post.title }}</p>
+              {% if post.description %}
+              <p class="description">{{ post.description  | truncate: 180, '...' }}</p>
+              {% else %}
+              {% endif %}
+            </li>
+          </ul>
+        </a>
+      </div>
+      <hr>
+      {% if forloop.last %}
+    {% else %}
+    {% if this_year != next_year %}
+    <br>
+    <span class="date" id="{{ next_year }}-ref">{{next_year}}</span>
+    <hr>
+    {% else %}
+    {% endif %}
+    {% endif %}
+  {% endfor %}
+  </div>
+</div>

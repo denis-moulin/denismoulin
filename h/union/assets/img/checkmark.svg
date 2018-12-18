@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="7px" viewBox="0 0 10 7" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45 (43475) - http://www.bohemiancoding.com/sketch -->
+    <title>Path 2 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="arrow--down" transform="translate(1.000000, 1.000000)" fill-rule="nonzero" fill="#EBDACE">
+            <path d="M2.5328705,3.61865693 L0.707106781,1.79289322 C0.316582489,1.40236893 -0.316582489,1.40236893 -0.707106781,1.79289322 C-1.09763107,2.18341751 -1.09763107,2.81658249 -0.707106781,3.20710678 L1.79289322,5.70710678 C2.17034161,6.08455518 2.77769823,6.09900786 3.17267279,5.73994007 L8.67267279,0.739940073 C9.08133041,0.368433148 9.111447,-0.264015176 8.73994007,-0.672672794 C8.36843315,-1.08133041 7.73598482,-1.111447 7.32732721,-0.739940073 L2.5328705,3.61865693 Z" id="Path-2-Copy"></path>
+        </g>
+    </g>
+</svg>

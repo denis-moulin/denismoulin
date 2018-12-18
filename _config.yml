@@ -30,6 +30,15 @@ theme: minima
 markdown: kramdown
 plugins:
   - jekyll-feed
+collections:
+  experiences:
+    Title: experiences
+    output: true
+    permalink: "/xp/:title.html"
+  posts:
+    Layout: post
+    title: posts
+    permalink: "/p/:year/:title.html"
 
 # minima theme settings
 show_excerpts: false # set to true to show excerpts on the homepage

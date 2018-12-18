@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<article class="post">
+  <div class="container">
+    <div class="post-header">
+      {% if page.cover %}
+        <figure class="post-cover">
+          <img class="lazy" data-original="{{ site.url }}/assets/images/posts/{{ page.cover }}">
+        </figure>
+        {% else %}
+      {% endif %}
+    </div>
+    <div class="post-content">
+      <br>
+      {{ content }}
+      <a href="mailto:{{ site.email }}" class="button button--combo button--green email">Email me<span class="status-icon status-icon-mail status-icon-mail-white"></span></a>
+      <a href="https://www.linkedin.com/in/denismoulin" target="_blank" class="button button--combo">Linkedin<span class="status-icon status-icon-external"></span></a>
+    </div>
+  </div>
+</article>
+{% include _experiences.html %}
+{% include _skills.html %}
