@@ -19,6 +19,6 @@
   <meta name="theme-color" content="#EEEEEE">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.url }}">
-  <link rel="stylesheet" href="/assets/main.css">
-  <link href="/assets/css/zoom.css" rel="stylesheet">
+  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  <link href="{{ "/assets/css/zoom.css" | relative_url }}" rel="stylesheet">
 </head>
