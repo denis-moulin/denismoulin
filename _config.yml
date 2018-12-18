@@ -14,15 +14,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Portfolio — Denis Moulin
-email: your-email@example.com
+description: Portfolio of Designer Denis Moulin.
+email: contact@denismoulin.com
 author: Denis Moulin
 firstname: Denis
-email: moulin.denis@gmail.com
-description: Portfolio of Designer Denis Moulin.
+lastname: Moulin
 baseurl: ""
 url: ""
 twitter_username: _dmoulin
-github_username: denismoulin
+github_username: denis-moulin
 local: Montréal
 
 # Build settings

@@ -22,6 +22,6 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Cover Image", name: "cover", widget: "image", required: false }
       - {label: "Header Image", name: "header", widget: "image", required: false }
       - {label: "Display image on timeline", name: "preview", widget: "boolean", default: false, required: false }
-      - {label: "Display some banner", name: "banner", widget: "boolean", default: true, required: false }
+      - {label: "Display some banner", name: "banner", widget: "boolean", default: false, required: false }
       - {label: "Post is featured", name: "featured", widget: "boolean", default: false, required: false }
       - {label: "Force post layout", name: "is_post", widget: "boolean", default: true, required: false }
