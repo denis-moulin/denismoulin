@@ -11,7 +11,7 @@ cover: identity--slide--cover__timeline.png
 header: identity--slide--cover__post.png
 matters: Design process
 period: 2015
-external: true
+categories: link
 link: https://www.slideshare.net/Denismoulin1/building-your-first-identity
 ---
 

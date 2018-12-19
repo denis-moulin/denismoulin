@@ -8,7 +8,9 @@ link: 'https://www.instagram.com/surfersjournal/'
 matters: 'Magazine, Art direction'
 preview: true
 banner: false
-featured: false
+featured: true
 is_post: true
+cover: 
+header:
 ---
 Reader supported since 1992

@@ -9,6 +9,6 @@ is_post: true
 banner: false
 matters: Product design
 period: 2018
-external: true
+categories: link
 link: 'https://www.instagram.com/maisoncedric/'
 ---

@@ -11,7 +11,7 @@ cover: yourtempo--website--cover__timeline.gif
 header: yourtempo--website--cover__post.gif
 matters: Product design
 period: 2018
-external: true
+categories: read
 link: https://www.yourtempo.co/
 ---
 

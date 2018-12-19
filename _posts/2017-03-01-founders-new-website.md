@@ -11,7 +11,7 @@ cover: founders--website--cover__timeline.png
 header: founders--website--cover__post.png
 matters: Brand identity, Front-end development
 period: 2017
-external: false
+categories: link
 link: https://founders.as
 ---
 

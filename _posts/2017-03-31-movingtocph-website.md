@@ -11,7 +11,7 @@ cover: movingtocph--website--cover__timeline.png
 header: movingtocph--website--cover__post.png
 matters: Brand identity, Front-end development
 period: 2017
-external: true
+categories: link
 link: https://movingtocph.com
 ---
 

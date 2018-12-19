@@ -11,7 +11,7 @@ cover: getfigure--website--cover__timeline.png
 header: getfigure--website--cover__post.png
 matters: Brand identity, Front-end development
 period: 2015
-external: true
+categories: link
 link: https://denismoulin.com/h/figure/
 ---
 

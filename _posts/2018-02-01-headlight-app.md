@@ -11,7 +11,7 @@ cover: headlight--app--cover__timeline.png
 header: headlight--app--cover__post.png
 matters: Product design
 period: 2018
-external: false
+categories: read
 link: https://weareheadlight.com
 ---
 Headlight is a modern coaching solution that enables individuals to define and drive their professional and personal development.

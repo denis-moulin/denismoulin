@@ -11,7 +11,7 @@ cover: headlight--website--cover__timeline.png
 header: headlight--website--cover__post.png
 matters: Brand identity, Front-end development
 period: 2018
-external: false
+categories: read
 link: https://weareheadlight.com
 ---
 

@@ -11,7 +11,7 @@ cover: dixie--website--02--cover__timeline.png
 header: dixie--website--02--cover__post.png
 matters: Brand identity, Front-end development
 period: 2017
-external: true
+categories: link
 link: https://denismoulin.com/h/dixie/2017
 ---
 

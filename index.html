@@ -14,17 +14,16 @@ layout: default
       <hr>
       {% endif %}
       <div class="post-item post">
-        {% if post.external == true %}
+        {% if post.categories contains 'link' %}
         <a href="{{ post.link }}" target="_blank">
         {% else %}
         <a href="{{ post.url }}">
         {% endif %}
           <ul>
             <div class="action--icon">
-            {% if post.external == true %}
+            {% if post.categories contains 'link' %}
             <span class="status-icon status-icon-external"></span>
             {% else %}
-
             <span class="status-icon status-icon-direction"></span>
             {% endif %}
             </div>

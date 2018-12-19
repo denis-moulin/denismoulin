@@ -11,7 +11,7 @@ cover: duuoo--website--cover__timeline.png
 header: duuoo--website--cover__post.png
 matters: Brand identity, Front-end development
 period: 2016
-external: true
+categories: read
 link: https://denismoulin.com/h/duuoo/
 ---
 

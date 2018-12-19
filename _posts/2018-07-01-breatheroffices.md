@@ -11,6 +11,6 @@ cover:
 header:
 matters: Product design
 period: 2018
-external: true
+categories: link
 link: https://www.breatheroffices.com
 ---

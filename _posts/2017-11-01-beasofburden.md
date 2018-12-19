@@ -11,7 +11,7 @@ cover: bob--app--cover__timeline.png
 header: bob--app--cover__post.png
 matters: Product design, Prototyping
 period: 2017
-external: false
+categories: read
 link: https://beastsofburden.co/
 ---
 
