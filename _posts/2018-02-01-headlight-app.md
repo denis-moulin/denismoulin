@@ -1,18 +1,20 @@
 ---
 layout: post
 title: Headlight app
-date: 2018-02-01 00:00:00 Z
-description: Headlight is a modern coaching solution that enables individuals to define and drive their professional and personal development.
-preview: false
-is_post: true
-banner: false
-cover: headlight--app--cover__timeline.png
-header: headlight--app--cover__post.png
-matters: Product design
-period: 2018
+date: 2018-02-01T00:00:00.000Z
+description: >-
+  Headlight is a modern coaching solution that enables individuals to define and
+  drive their professional and personal development.
 categories:
   - read
-link: https://weareheadlight.com
+  - featured
+link: 'https://weareheadlight.com'
+matters: Product design
+cover: headlight--app--cover__timeline.png
+header: headlight--app--cover__post.png
+preview: false
+banner: false
+is_post: true
 ---
 Headlight is a modern coaching solution that enables individuals to define and drive their professional and personal development.
 
