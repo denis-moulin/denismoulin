@@ -3,6 +3,7 @@ layout: default
 ---
 
 {% include _hero.html %}
+{% include _featured.html %}
 
 <div class="container">
   <div class="post-list">
@@ -27,12 +28,21 @@ layout: default
             <span class="status-icon status-icon-direction"></span>
             {% endif %}
             </div>
-            {% if post.featured == true %}
+            {% if post.categories contains 'featured' %}
             {% else %}
               {% if post.preview == true %}
               <li class="cover">
                 <figure class="tiny">
+                  {% if post.cover %}
                   <img class="lazy" data-original="{{ site.url }}/assets/images/posts/{{ post.cover }}" with="auto" height="100%">
+                  {% else %}
+                  <svg width="60px" viewBox="0 0 22 22">
+                    <g transform="translate(11.000000, 11.000000) scale(-1, 1) translate(-11.000000, -11.000000) translate(2.000000, 6.000000)" stroke="none" stroke-width="1" fill="#000000" fill-rule="evenodd">
+                        <rect  x="1" y="4" width="17" height="2"></rect>
+                        <polygon fill-rule="nonzero" points="6.12132034 1.70710678 4.70710678 0.292893219 0 5 4.70710678 9.70710678 6.12132034 8.29289322 2.82842712 5"></polygon>
+                    </g>
+                  </svg>
+                  {% endif %}
                 </figure>
               </li>
               {% else %}

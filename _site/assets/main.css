@@ -507,12 +507,6 @@ a#top-nav {
       height: 100%;
       width: auto;
       transform: translateX(-50%) translateY(-50%); }
-  @media screen and (min-width: 39rem) {
-    .post-item.featured ul {
-      line-height: 0; }
-    .post-item.featured figure {
-      height: 12rem;
-      width: 9rem; } }
   .post-item.experience {
     padding-bottom: 0; }
     .post-item.experience figure {

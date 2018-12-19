@@ -3,7 +3,6 @@ layout: post
 title: Prototype your first identity
 date: 2016-09-20 00:00:00 Z
 description: This presentation runs you through a workshop I built along with the design team at Founders. It’s a good base for shaping a first identity with the aim of going from 0 to 1, testing and building buy-in for a product.
-featured: false
 preview: false
 is_post: true
 banner: false
@@ -11,7 +10,8 @@ cover: identity--slide--cover__timeline.png
 header: identity--slide--cover__post.png
 matters: Design process
 period: 2015
-categories: link
+categories:
+  - link
 link: https://www.slideshare.net/Denismoulin1/building-your-first-identity
 ---
 

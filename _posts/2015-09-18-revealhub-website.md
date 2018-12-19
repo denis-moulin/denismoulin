@@ -3,7 +3,6 @@ layout: post
 title: Revealhub.com
 date: 2015-09-18 00:00:00 Z
 description: Reveal is a machine learning engine focused on recruitment. I helped the team to create their first brand identity and marketing page over the course of one week.
-featured: false
 preview: false
 is_post: true
 banner: false
@@ -11,7 +10,8 @@ cover: revealhub--website--cover__timeline.png
 header: revealhub--website--cover__post.png
 matters: Brand identity, Front-end development
 period: 2015
-categories: link
+categories:
+  - link
 link: https://denismoulin.com/h/revealhub/
 ---
 

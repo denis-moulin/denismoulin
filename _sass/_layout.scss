@@ -231,7 +231,7 @@ a#top-nav{
   .description {
     font: $primary-font-weight #{$small-font-size}/#{$base-line-height} $primary-font-family;
     color: $grey-color-dark;
-    
+
     @media screen and (max-width: $on-palm) {
       display: none;
     }
@@ -344,20 +344,6 @@ a#top-nav{
       height: 100%;
       width: auto;
       transform: translateX(-50%) translateY(-50%);
-    }
-  }
-
-  @media screen and (min-width: $on-palm) {
-    &.featured {
-
-      ul{
-        line-height: 0;
-      }
-
-      figure {
-        height: $spacing-unit*4;
-        width: $spacing-unit*3;
-      }
     }
   }
 

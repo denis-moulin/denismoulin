@@ -3,7 +3,6 @@ layout: post
 title: Dixie.io (1.0)
 date: 2015-10-01 00:00:00 Z
 description: While working on Dixie's product, I developed their brand identity and coded their marketing website.
-featured: false
 preview: false
 is_post: true
 banner: false
@@ -11,7 +10,8 @@ cover: dixie--website--01--cover__timeline.png
 header: dixie--website--01--cover__post.png
 matters: Brand identity, Front-end development
 period: 2015
-categories: link
+categories:
+  - link
 link: https://denismoulin.com/h/dixie/2015
 ---
 

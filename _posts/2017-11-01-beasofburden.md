@@ -3,7 +3,6 @@ layout: post
 title: Beast of Burden
 date: 2017-08-01 00:00:00 Z
 description: Beast of Burden is an app that helps you to identify hidden pressures, or any sources of stress/anxiety, and leads you to develop habits to fix them.
-featured: false
 preview: false
 is_post: true
 banner: false
@@ -11,7 +10,8 @@ cover: bob--app--cover__timeline.png
 header: bob--app--cover__post.png
 matters: Product design, Prototyping
 period: 2017
-categories: read
+categories:
+  - read
 link: https://beastsofburden.co/
 ---
 

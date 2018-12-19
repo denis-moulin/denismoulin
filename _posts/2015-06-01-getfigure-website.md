@@ -3,7 +3,6 @@ layout: post
 title: Getfigure.io
 date: 2015-06-01 00:00:00 Z
 description: Figure is the first banking app exclusively for freelancers. While building the first prototype version, I designed and coded Figure's landing page.
-featured: false
 preview: false
 is_post: true
 banner: false
@@ -11,7 +10,8 @@ cover: getfigure--website--cover__timeline.png
 header: getfigure--website--cover__post.png
 matters: Brand identity, Front-end development
 period: 2015
-categories: link
+categories:
+  - link
 link: https://denismoulin.com/h/figure/
 ---
 
