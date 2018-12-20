@@ -5,7 +5,7 @@ date: '2018-12-20 05:51:03'
 description: Description
 categories:
   - featured
-  - link
+  - read
 link: 'https://www.instagram.com/surfersjournal/'
 cover: /assets/images/posts/screen-shot-2018-12-15-at-11.06.34-am.png
 header: /assets/images/posts/screen-shot-2018-12-15-at-11.06.34-am.png
