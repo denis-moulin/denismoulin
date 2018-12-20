@@ -6,8 +6,8 @@ description: Beast of Burden is an app that helps you to identify hidden pressur
 preview: false
 is_post: true
 banner: false
-cover: bob--app--cover__timeline.png
-header: bob--app--cover__post.png
+cover: /assets/images/posts/bob--app--cover__timeline.png
+header: /assets/images/posts/bob--app--cover__post.png
 matters: Product design, Prototyping
 period: 2017
 categories:

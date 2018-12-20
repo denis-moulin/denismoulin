@@ -6,8 +6,8 @@ description: While working on the Duuoo product, I helped the team to re-shape t
 preview: false
 is_post: true
 banner: false
-cover: duuoo--website--cover__timeline.png
-header: duuoo--website--cover__post.png
+cover: /assets/images/posts/duuoo--website--cover__timeline.png
+header: /assets/images/posts/duuoo--website--cover__post.png
 matters: Brand identity, Front-end development
 period: 2016
 categories:

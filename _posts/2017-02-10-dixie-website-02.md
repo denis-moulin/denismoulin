@@ -6,8 +6,8 @@ description: Second iteration of Dixie’s marketing website. I led the design a
 preview: false
 is_post: true
 banner: false
-cover: dixie--website--02--cover__timeline.png
-header: dixie--website--02--cover__post.png
+cover: /assets/images/posts/dixie--website--02--cover__timeline.png
+header: /assets/images/posts/dixie--website--02--cover__post.png
 matters: Brand identity, Front-end development
 period: 2017
 categories:

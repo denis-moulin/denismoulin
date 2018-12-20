@@ -10,8 +10,8 @@ categories:
   - featured
 link: 'https://www.yourtempo.co/'
 matters: Product design
-cover: yourtempo--website--cover__timeline.gif
-header: yourtempo--website--cover__post.gif
+cover: /assets/images/posts/yourtempo--website--cover__timeline.gif
+header: /assets/images/posts/yourtempo--website--cover__post.gif
 preview: true
 banner: false
 is_post: true

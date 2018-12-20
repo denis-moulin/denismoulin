@@ -6,8 +6,8 @@ description: Headlight empowers employees to build resilience against stress and
 preview: false
 is_post: true
 banner: false
-cover: headlight--website--cover__timeline.png
-header: headlight--website--cover__post.png
+cover: /assets/images/posts/headlight--website--cover__timeline.png
+header: /assets/images/posts/headlight--website--cover__post.png
 matters: Brand identity, Front-end development
 period: 2018
 categories:

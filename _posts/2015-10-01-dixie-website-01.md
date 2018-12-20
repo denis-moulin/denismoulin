@@ -6,8 +6,8 @@ description: While working on Dixie's product, I developed their brand identity 
 preview: false
 is_post: true
 banner: false
-cover: dixie--website--01--cover__timeline.png
-header: dixie--website--01--cover__post.png
+cover: /assets/images/posts/dixie--website--01--cover__timeline.png
+header: /assets/images/posts/dixie--website--01--cover__post.png
 matters: Brand identity, Front-end development
 period: 2015
 categories:

@@ -6,8 +6,8 @@ description: For two years we didn’t touch our website’s very “corporate b
 preview: false
 is_post: true
 banner: false
-cover: founders--website--cover__timeline.png
-header: founders--website--cover__post.png
+cover: /assets/images/posts/founders--website--cover__timeline.png
+header: /assets/images/posts/founders--website--cover__post.png
 matters: Brand identity, Front-end development
 period: 2017
 categories:

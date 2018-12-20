@@ -6,8 +6,8 @@ description: This presentation runs you through a workshop I built along with th
 preview: false
 is_post: true
 banner: false
-cover: identity--slide--cover__timeline.png
-header: identity--slide--cover__post.png
+cover: /assets/images/posts/identity--slide--cover__timeline.png
+header: /assets/images/posts/identity--slide--cover__post.png
 matters: Design process
 period: 2015
 categories:

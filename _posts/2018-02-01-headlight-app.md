@@ -10,8 +10,8 @@ categories:
   - featured
 link: 'https://weareheadlight.com'
 matters: Product design
-cover: headlight--app--cover__timeline.png
-header: headlight--app--cover__post.png
+cover: /assets/images/posts/headlight--app--cover__timeline.png
+header: /assets/images/posts/headlight--app--cover__post.png
 preview: false
 banner: false
 is_post: true

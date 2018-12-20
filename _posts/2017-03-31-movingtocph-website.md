@@ -6,8 +6,8 @@ description: In a two-week sprint, we (at Founders) built the best playbook to h
 preview: false
 is_post: true
 banner: false
-cover: movingtocph--website--cover__timeline.png
-header: movingtocph--website--cover__post.png
+cover: /assets/images/posts/movingtocph--website--cover__timeline.png
+header: /assets/images/posts/movingtocph--website--cover__post.png
 matters: Brand identity, Front-end development
 period: 2017
 categories:

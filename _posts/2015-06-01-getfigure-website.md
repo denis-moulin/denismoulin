@@ -6,8 +6,8 @@ description: Figure is the first banking app exclusively for freelancers. While 
 preview: false
 is_post: true
 banner: false
-cover: getfigure--website--cover__timeline.png
-header: getfigure--website--cover__post.png
+cover: /assets/images/posts/getfigure--website--cover__timeline.png
+header: /assets/images/posts/getfigure--website--cover__post.png
 matters: Brand identity, Front-end development
 period: 2015
 categories:

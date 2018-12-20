@@ -6,8 +6,8 @@ description: Reveal is a machine learning engine focused on recruitment. I helpe
 preview: false
 is_post: true
 banner: false
-cover: revealhub--website--cover__timeline.png
-header: revealhub--website--cover__post.png
+cover: /assets/images/posts/revealhub--website--cover__timeline.png
+header: /assets/images/posts/revealhub--website--cover__post.png
 matters: Brand identity, Front-end development
 period: 2015
 categories:
