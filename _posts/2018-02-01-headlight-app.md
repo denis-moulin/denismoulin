@@ -14,6 +14,8 @@ cover: /assets/images/posts/headlight--app--cover__timeline.png
 header: /assets/images/posts/headlight--app--cover__post.png
 preview: false
 is_post: true
+banners:
+  - about
 ---
 Headlight is a modern coaching solution that enables individuals to define and drive their professional and personal development.
 
