@@ -11,7 +11,5 @@ matters: Product design
 cover: /assets/images/posts/month_-img-callout.jpg
 header: /assets/images/posts/month_-img-callout.jpg
 preview: false
-banner: false
 is_post: true
 ---
-

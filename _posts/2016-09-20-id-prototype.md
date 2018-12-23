@@ -5,7 +5,6 @@ date: 2016-09-20 00:00:00 Z
 description: This presentation runs you through a workshop I built along with the design team at Founders. It’s a good base for shaping a first identity with the aim of going from 0 to 1, testing and building buy-in for a product.
 preview: false
 is_post: true
-banner: false
 cover: /assets/images/posts/identity--slide--cover__timeline.png
 header: /assets/images/posts/identity--slide--cover__post.png
 matters: Design process

@@ -5,7 +5,6 @@ date: 2018-02-01 00:00:00 Z
 description: Headlight empowers employees to build resilience against stress and improve their performance.
 preview: false
 is_post: true
-banner: false
 cover: /assets/images/posts/headlight--website--cover__timeline.png
 header: /assets/images/posts/headlight--website--cover__post.png
 matters: Brand identity, Front-end development

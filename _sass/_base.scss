@@ -178,7 +178,7 @@ a {
               -webkit-transition-delay: 0.3s;
               transition-delay: 0.3s;
             }
-      
+
             &-mail, &-direction{
               transform: translateX($spacing-unit/10) translateY(0) rotate(0);
               -webkit-transition: transform 0.2s;
@@ -221,12 +221,33 @@ hr{
   background: $grey-color-light;
 }
 
-blockquote{
-  margin: $spacing-unit auto;
-  padding: $spacing-unit;
-  font: $primary-font-weight #{$big-font-size*1.2}/#{$base-line-height} $primary-font-family;
+blockquote {
+  height: auto;
+  margin: -$spacing-unit 0 $spacing-unit/2;
   color: $grey-color-dark;
-  border: solid $spacing-unit/15 $grey-color-light;
+  background: $grey-color-light;
+
+  p{
+    padding: $spacing-unit/2;
+    margin-bottom: 0;
+  }
+
+  @media screen and (max-width: $on-palm) {
+    margin: -$spacing-unit/2 auto $spacing-unit;
+  }
+
+  @media screen and (min-width: $content-width*1.25) {
+    width: $content-width*2;
+    margin-left: -$content-width/2;
+  }
+
+  &.portrait{
+    @media screen and (min-width: $content-width*1.25) {
+      height: auto;
+      width: 100%;
+      margin: $spacing-unit auto;
+    }
+  }
 }
 
 i, em{

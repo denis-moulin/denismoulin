@@ -9,6 +9,5 @@ categories:
 link: 'https://www.instagram.com/maisoncedric/'
 matters: Product design
 preview: false
-banner: false
 is_post: true
 ---

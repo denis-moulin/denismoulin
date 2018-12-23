@@ -5,7 +5,6 @@ date: 2017-03-01 00:00:00 Z
 description: For two years we didn’t touch our website’s very “corporate banking” look. In 2017 we sat down to evolve how we present ourselves and our studio.
 preview: false
 is_post: true
-banner: false
 cover: /assets/images/posts/founders--website--cover__timeline.png
 header: /assets/images/posts/founders--website--cover__post.png
 matters: Brand identity, Front-end development

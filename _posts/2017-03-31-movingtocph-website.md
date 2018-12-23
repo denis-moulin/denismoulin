@@ -5,7 +5,6 @@ date: 2017-10-01 00:00:00 Z
 description: In a two-week sprint, we (at Founders) built the best playbook to help foreigners move to Copenhagen.
 preview: false
 is_post: true
-banner: false
 cover: /assets/images/posts/movingtocph--website--cover__timeline.png
 header: /assets/images/posts/movingtocph--website--cover__post.png
 matters: Brand identity, Front-end development

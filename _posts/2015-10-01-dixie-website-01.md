@@ -5,7 +5,6 @@ date: 2015-10-01 00:00:00 Z
 description: While working on Dixie's product, I developed their brand identity and coded their marketing website.
 preview: false
 is_post: true
-banner: false
 cover: /assets/images/posts/dixie--website--01--cover__timeline.png
 header: /assets/images/posts/dixie--website--01--cover__post.png
 matters: Brand identity, Front-end development
