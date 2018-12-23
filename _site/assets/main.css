@@ -125,7 +125,7 @@ a:link {
   padding: 0.2rem 0.6rem;
   color: inherit;
   background: rgba(38, 38, 38, 0.05);
-  border-radius: 0.3rem;
+  border-radius: 0.2rem;
   -webkit-transition: all 0.2s ease;
   transition: all 0.2s ease; }
 a:hover, a:visited {
@@ -141,7 +141,7 @@ a.button {
   font: normal 1.6rem/1.6 "sans", sans-serif;
   border: none;
   padding: 0.75rem 1.875rem 0.9375rem;
-  border-radius: 0.3rem;
+  border-radius: 0.2rem;
   background: rgba(38, 38, 38, 0.1); }
   @media screen and (max-width: 39rem) {
     a.button {
@@ -188,16 +188,20 @@ hr {
   background: #f7f7f7; }
 
 blockquote {
+  position: relative;
   height: auto;
-  margin: -3rem 0 1.5rem;
+  margin: calc(-3rem + -0.2rem) 0 1.5rem;
   color: gray;
-  background: #f7f7f7; }
+  background: #f7f7f7;
+  border-bottom-right-radius: 0.2rem;
+  border-bottom-left-radius: 0.2rem;
+  z-index: 99999; }
   blockquote p {
     padding: 1.5rem;
     margin-bottom: 0; }
   @media screen and (max-width: 39rem) {
     blockquote {
-      margin: -1.5rem auto 3rem; } }
+      margin: calc(-1.5rem + -0.2rem) auto 3rem; } }
   @media screen and (min-width: 67.5rem) {
     blockquote {
       width: 108rem;
@@ -243,7 +247,7 @@ b, strong {
       color: #FFF;
       background: #262626;
       padding: 1rem 1.5rem;
-      border-radius: 0.3rem;
+      border-radius: 0.2rem;
       opacity: 0;
       -webkit-transition: opacity 0.3s ease-out;
       transition: opacity 0.3s ease-out; }
@@ -312,7 +316,7 @@ a#top-nav {
   width: 0.2rem;
   opacity: 0;
   border: 0.2rem solid #ffda08;
-  border-radius: 0.6rem;
+  border-radius: 0.4rem;
   position: absolute;
   -webkit-animation: square--wrapper 24s 3;
   /* Safari 4.0 - 8.0 */
@@ -395,7 +399,7 @@ a#top-nav {
     width: calc(100% + 3rem/1.5);
     height: calc((100% + 3rem/1.5) + 0.2rem);
     background: transparent;
-    border-radius: 0.3rem;
+    border-radius: 0.2rem;
     -webkit-transition: all 0.2s ease;
     transition: all 0.2s ease; }
   .post-item:hover::before {
@@ -495,7 +499,7 @@ a#top-nav {
     height: 6rem;
     width: 6rem;
     overflow: hidden;
-    border-radius: 0.3rem;
+    border-radius: 0.2rem;
     -webkit-transition: transform 0.6s;
     transition: transform 0.6s; }
     .post-item figure.tiny {
@@ -541,13 +545,13 @@ a#top-nav {
     width: 54rem;
     margin: 0 auto;
     overflow: hidden;
-    border-radius: 0.3rem; }
+    border-radius: 0.2rem; }
     @media screen and (max-width: 39rem) {
       .post-header figure {
         height: 24rem;
         width: 24rem;
         margin: 0 auto 3rem;
-        border-radius: 0.3rem; } }
+        border-radius: 0.2rem; } }
     .post-header figure img {
       position: absolute;
       top: 50%;
@@ -591,7 +595,8 @@ a#top-nav {
 .post-content img {
   height: auto;
   width: 100%;
-  margin: 3rem auto 1.5rem; }
+  margin: 3rem auto 1.5rem;
+  border-radius: 0.2rem; }
   @media screen and (max-width: 39rem) {
     .post-content img {
       margin: 0 auto; } }

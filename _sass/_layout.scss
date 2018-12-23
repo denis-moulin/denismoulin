@@ -441,6 +441,7 @@ a#top-nav{
     height: auto;
     width: 100%;
     margin: $spacing-unit auto $spacing-unit/2;
+    border-radius: $radius;
 
 
     @media screen and (max-width: $on-palm) {
