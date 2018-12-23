@@ -314,11 +314,6 @@ a#top-nav{
     -webkit-transition: transform 0.6s;
             transition: transform 0.6s;
 
-    &.tiny{
-      height: $spacing-unit*3;
-      width: $spacing-unit*2;
-    }
-
     svg{
       position: absolute;
       top: calc(50% - 11px);
