@@ -56,6 +56,18 @@
     </script>
     <!-- Start of Magnify Widget Snippet -->
     <script>
+    var prevScrollpos = window.pageYOffset;
+    window.onscroll = function() {
+    var currentScrollPos = window.pageYOffset;
+      if (prevScrollpos > currentScrollPos) {
+        document.getElementById("top-nav").style.top = "0px";
+      } else {
+        document.getElementById("top-nav").style.top = "-60px";
+      }
+      prevScrollpos = currentScrollPos;
+    }
+    </script>
+    <script>
       (function() {
         var w = window;
         var d = document;

@@ -257,12 +257,20 @@ b, strong {
       transition: opacity 0.3s ease-out; }
 
 a#top-nav {
+  position: fixed;
+  top: 0;
   display: inline-block;
   text-align: center;
   width: 100%;
   padding: 1.5rem 0 1.5rem;
-  background: transparent;
-  border-bottom: 0.1rem solid #f7f7f7; }
+  background: white;
+  border-bottom: 0.1rem solid #f7f7f7;
+  z-index: 9999;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+  transition: all 0.3s ease; }
 
 .site-footer {
   margin-top: 3rem;

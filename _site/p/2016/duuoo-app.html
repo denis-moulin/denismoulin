@@ -24,8 +24,8 @@
   <link rel="icon" type="image/png" sizes="16x16" href="/assets/icons/favicon-16x16.png">
   <meta name="msapplication-TileColor" content="#603cba">
   <meta name="theme-color" content="#EEEEEE">
-  <link rel="canonical" href="/p/2016/duuoo-app.html">
-  <link rel="alternate" type="application/rss+xml" title="Portfolio — Denis Moulin" href="/feed.xml">
+  <link rel="canonical" href="http://localhost:4000/p/2016/duuoo-app.html">
+  <link rel="alternate" type="application/rss+xml" title="Portfolio — Denis Moulin" href="http://localhost:4000/feed.xml">
   <link rel="stylesheet" href="/assets/main.css">
   <link href="/assets/css/zoom.css" rel="stylesheet">
 </head>
@@ -40,7 +40,7 @@
     
     <div class="post-header">
       <figure class="post-cover">
-        <img  class="lazy" data-original="/assets/images/posts/duuoo--app--cover__post.png">
+        <img  class="lazy" data-original="http://localhost:4000/assets/images/posts/duuoo--app--cover__post.png">
       </figure>
     </div>
     
@@ -176,6 +176,18 @@
       }
     </script>
     <!-- Start of Magnify Widget Snippet -->
+    <script>
+    var prevScrollpos = window.pageYOffset;
+    window.onscroll = function() {
+    var currentScrollPos = window.pageYOffset;
+      if (prevScrollpos > currentScrollPos) {
+        document.getElementById("top-nav").style.top = "0px";
+      } else {
+        document.getElementById("top-nav").style.top = "-60px";
+      }
+      prevScrollpos = currentScrollPos;
+    }
+    </script>
     <script>
       (function() {
         var w = window;
