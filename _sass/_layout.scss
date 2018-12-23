@@ -369,8 +369,8 @@ a#top-nav{
 // Post content
 
 .post-header {
-  margin: $spacing-unit*2 0;
-  @media screen and (max-width: $on-palm) { margin: $spacing-unit 0;}
+  margin: $spacing-unit*4 0 $spacing-unit*2;
+  @media screen and (max-width: $on-palm) { margin: $spacing-unit*3 0 $spacing-unit;}
 
   figure {
     position: relative;
