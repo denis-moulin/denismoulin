@@ -497,7 +497,7 @@ a#top-nav {
     position: relative;
     display: inline-block;
     height: 6rem;
-    width: 6rem;
+    width: 9rem;
     overflow: hidden;
     border-radius: 0.2rem;
     -webkit-transition: transform 0.6s;
@@ -541,7 +541,7 @@ a#top-nav {
       margin: 9rem 0 3rem; } }
   .post-header figure {
     position: relative;
-    height: 27rem;
+    height: 36rem;
     width: 54rem;
     margin: 0 auto;
     overflow: hidden;
