@@ -9,10 +9,6 @@
     {% if page.path contains '_posts' %}
       <a href="/" id="top-nav">Home</a>
     {% else %}
-      {% if site.banner == "contact" %}
-        {% include _banner.html %}
-      {% else %}
-      {% endif %}
     {% endif %}
     <main>
       {{ content }}

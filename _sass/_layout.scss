@@ -15,6 +15,17 @@ a#top-nav{
   transition: all 0.3s ease;
 }
 
+a#bottom-nav{
+  position: relative;
+  top: 0;
+  display: inline-block;
+  text-align: center;
+  width: 100%;
+  padding: $spacing-unit/2 0 $spacing-unit/3;
+  background: white;
+  border-top: 0.1rem solid $grey-color-light;
+}
+
 .site-footer {
   margin-top: $spacing-unit;
   padding: $spacing-unit 0;
@@ -376,8 +387,8 @@ a#top-nav{
     border-radius: $radius;
 
     @media screen and (max-width: $on-palm) {
-      height: $spacing-unit*8;
-      width: $spacing-unit*8;
+      height: $spacing-unit*12;
+      width: 100%;
       margin: 0 auto $spacing-unit;
       border-radius: $radius;
     }
@@ -463,4 +474,10 @@ a#top-nav{
   font: $primary-font-weight #{$tiny-font-size}/#{$base-line-height} $primary-font-family;
   margin: $spacing-unit 0 0;
   color: $grey-color-light;
+}
+
+.post-banner{
+  margin: $spacing-unit 0 0;
+  padding: $spacing-unit 0;
+  background: $grey-color-light;
 }

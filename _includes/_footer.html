@@ -1,3 +1,9 @@
+{% if page.path contains '_posts' %}
+  <a href="/" id="bottom-nav">Back Home</a>
+{% else %}
+  <a href="#" id="bottom-nav">Back to the top</a>
+{% endif %}
+<hr>
 <footer class="site-footer">
   <ul>
     <li>{{ site.title }}<br><br>last update on {{ site.time | date_to_string }}</li>
