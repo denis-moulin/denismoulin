@@ -7,6 +7,7 @@ description: Tempo is an email client that helps you focus. I helped build the i
 categories:
   - link
   - featured
+  - highlight
 link: 'https://www.yourtempo.co/'
 matters: Product design
 cover: /assets/images/posts/yourtempo--website--cover__timeline.gif

@@ -11,6 +11,7 @@ matters: Product design, Prototyping
 period: 2017
 categories:
   - read
+  - highlight
 link: https://beastsofburden.co/
 ---
 

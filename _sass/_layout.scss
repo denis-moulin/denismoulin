@@ -46,7 +46,7 @@ a#bottom-nav{
 .hero {
   display: flex;
   flex-direction: row;
-  padding: $spacing-unit*4 0 $spacing-unit*2;
+  padding: $spacing-unit*4 0 0;
   margin: 0 auto $spacing-unit*2;
 
   @media screen and (max-width: $on-palm) {
@@ -425,6 +425,7 @@ a#bottom-nav{
 }
 
 .post-content {
+  margin: 0 0 $spacing-unit*2;
   h2{ margin: 0 auto $spacing-unit;}
   h3, h4{ margin: $spacing-unit*2 auto $spacing-unit;}
   h5{ margin: $spacing-unit*2 auto 0;}
@@ -468,16 +469,4 @@ a#bottom-nav{
       }
     }
   }
-}
-
-.post-footer {
-  font: $primary-font-weight #{$tiny-font-size}/#{$base-line-height} $primary-font-family;
-  margin: $spacing-unit 0 0;
-  color: $grey-color-light;
-}
-
-.post-banner{
-  margin: $spacing-unit 0 0;
-  padding: $spacing-unit 0;
-  background: $grey-color-light;
 }

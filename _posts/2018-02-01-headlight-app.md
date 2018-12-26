@@ -8,6 +8,7 @@ description: >-
 categories:
   - read
   - featured
+  - highlight
 link: 'https://weareheadlight.com'
 matters: Product design
 cover: /assets/images/posts/headlight--app--cover__timeline.png
