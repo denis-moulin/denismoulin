@@ -2,7 +2,7 @@
   <div class="post-list">
     <span class="date">Selected work</span>
     <hr>
-    {% for post in site.categories.highlight limit:4 %}
+    {% for post in site.categories.highlight limit:5 %}
     <div class="post-item post featured">
         {% if post.categories contains 'link' %}
         <a href="{{ post.link }}" target="_blank">
