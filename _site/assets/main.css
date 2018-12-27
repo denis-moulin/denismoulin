@@ -483,7 +483,7 @@ a#bottom-nav {
       right: 0;
       height: 100%;
       width: 18rem;
-      background-image: linear-gradient(to right, transparent, #f7f7f7, #f7f7f7);
+      background-image: linear-gradient(to right, rgba(248, 247, 247, 0), #f7f7f7, #f7f7f7);
       opacity: 0;
       -webkit-transition: opacity 0.2s ease;
       transition: opacity 0.2s ease; }

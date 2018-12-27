@@ -9,8 +9,8 @@ categories:
   - highlight
 link: 'https://www.breatheroffices.com'
 matters: Product design
-cover: /assets/images/posts/month_-img-callout.jpg
-header: /assets/images/posts/month_-img-callout.jpg
+cover: /assets/images/posts/breatheroffices--timeline.png
+header:
 preview: false
 is_post: true
 ---

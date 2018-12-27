@@ -10,8 +10,8 @@ categories:
   - highlight
 link: 'https://www.yourtempo.co/'
 matters: Product design
-cover: /assets/images/posts/yourtempo--website--cover__timeline.gif
-header: /assets/images/posts/yourtempo--website--cover__post.gif
+cover: /assets/images/posts/tempo--app--timeline.png
+header: /assets/images/posts/tempo--app--post.png
 preview: true
 is_post: true
 ---

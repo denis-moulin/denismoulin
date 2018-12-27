@@ -9,9 +9,9 @@ categories:
   - link
 link: 'https://founders.as'
 matters: 'Brand identity, Front-end development'
-cover: /assets/images/posts/founders--website--cover__timeline.png
-header: /assets/images/posts/founders--website--cover__post.png
-preview: true
+cover: /assets/images/posts/founders--website--timeline.png
+header:
+preview: false
 is_post: true
 banners:
   - about

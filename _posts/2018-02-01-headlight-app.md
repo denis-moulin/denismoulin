@@ -11,8 +11,8 @@ categories:
   - highlight
 link: 'https://weareheadlight.com'
 matters: Product design
-cover: /assets/images/posts/headlight--app--cover__timeline.png
-header: /assets/images/posts/headlight--app--cover__post.png
+cover: /assets/images/posts/headlight--app--timeline.png
+header: /assets/images/posts/headlight--app--post.png
 preview: false
 is_post: true
 banners:
