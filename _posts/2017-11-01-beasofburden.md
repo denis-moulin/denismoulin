@@ -1,18 +1,19 @@
 ---
 layout: post
 title: Beast of Burden
-date: 2017-08-01 00:00:00 Z
-description: Beast of Burden is an app that helps you to identify hidden pressures, or any sources of stress/anxiety, and leads you to develop habits to fix them.
-preview: true
-is_post: true
-cover: /assets/images/posts/beastsofburden--timeline.png
-header: /assets/images/posts/beastsofburden--post.png
-matters: Product design, Prototyping
-period: 2017
+date: 2017-08-01T00:00:00.000Z
+description: >-
+  Beast of Burden is an app that helps you to identify hidden pressures, or any
+  sources of stress/anxiety, and leads you to develop habits to fix them.
 categories:
   - read
   - highlight
-link: https://beastsofburden.co/
+link: 'https://beastsofburden.co/'
+matters: 'Product design, Prototyping'
+cover: /assets/images/posts/beastofburden--timeline.png
+header: /assets/images/posts/beastofburden--post.png
+preview: true
+is_post: true
 ---
 
 While exploring solutions and problems linked to mental health, I worked with [Toke Barter](https://www.linkedin.com/in/tokebarter/) on a consumer-oriented approach to reducing anxiety.
