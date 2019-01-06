@@ -229,7 +229,7 @@ blockquote {
   background: $grey-color-light;
   border-bottom-right-radius: $radius;
   border-bottom-left-radius: $radius;
-  z-index: 999;
+  z-index: 200;
 
   p{
     padding: $spacing-unit/2;
