@@ -36,7 +36,7 @@ One downside, although Beacons are relatively cost-effective devices, while dorm
 
 So our no interface unlocking experience wasn’t happening but could we get as frictionless as possible and could we turn that downside positive. We paired the beacons with tablets. Not only it fixed the issue about waking up the beacons. It helped us with unsolved questions about fall-back solutions(what if you don’t have the app?) and visibility issues we were having at the time. Branding outside of our spaces was restricted (by landlords) to our name on the door; we could advertise Breather spaces to potential customer working on our same floors/building where we rented spaces.
 
-
+![]()
 
 
 
