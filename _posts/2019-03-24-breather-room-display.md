@@ -9,6 +9,7 @@ description: >-
   spaces.
 categories:
   - read
+  - featured
 link: 'https://breather.com'
 matters: Product Design
 header: /assets/images/posts/bud-post.png
