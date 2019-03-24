@@ -21,6 +21,8 @@ Breather is a service offering meeting rooms to book from an hour up to several 
 
 Whether it’s the first time to unlocking your Breather space or while in your booking you’re coming back from the bathroom, a unique to your booking 6 to 10 digits code is required to open the door again. My colleague and iOS developer at that time Joel and I paired to come up with an access solution to reduce friction and customer input.
 
+
+
 ## Some technical workarounds
 
 No interface is the ultimate friction-less experience, and we aimed for it knowing it might cost us extra work and cost. In 2018 it was fair to assume that most of our users had an iOS or Android OS device, platforms on which both Breather app are running.
@@ -38,6 +40,8 @@ So our no interface unlocking experience wasn’t happening but could we get as 
 <more complicated flow>
 
 Enough with words, let’s get into the interface. Once the flow was figured out, It was a pretty straight forward interface.
+
+
 
 ## Post-prototype (afterward)
 
