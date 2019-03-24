@@ -11,7 +11,7 @@ categories:
   - read
 link: 'https://breather.com'
 matters: Product Design
-header: /assets/images/posts/bud--post.png
+header: /assets/images/posts/bud-post.png
 preview: true
 banner: false
 featured: false
@@ -34,11 +34,16 @@ The first issue to be solved was to make sure we could somehow “read” if a p
 
 One downside, although Beacons are relatively cost-effective devices, while dormant they require an external signal to start the action. The second piece of the puzzle, we needed action from customers.
 
+![](/assets/images/posts/b-01-no_rez.png)
+![](/assets/images/posts/B--03--ongoing_rez.png)
+![](/assets/images/posts/C--01--proximity--search.png)
+![](/assets/images/posts/C--02--proximity--check_in--valid.png)
+![](/assets/images/posts/C--04--proximity--error_general.png)
+![](/assets/images/posts/D--01--key_pad-default.png)
+
 So our no interface unlocking experience wasn’t happening but could we get as frictionless as possible and could we turn that downside positive. We paired the beacons with tablets. Not only it fixed the issue about waking up the beacons. It helped us with unsolved questions about fall-back solutions(what if you don’t have the app?) and visibility issues we were having at the time. Branding outside of our spaces was restricted (by landlords) to our name on the door; we could advertise Breather spaces to potential customer working on our same floors/building where we rented spaces.
 
-![](/assets/images/posts/b-01-no_rez.png)
-
-
+![](/assets/images/posts/E--01--space_around-displayed.png)
 
 ### Post-prototype (afterward)
 
