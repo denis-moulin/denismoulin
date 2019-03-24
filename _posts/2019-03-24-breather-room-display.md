@@ -10,7 +10,7 @@ description: >-
 categories:
   - read
 link: 'https://breather.com'
-matters: 'Research, Prototype'
+matters: Product Design
 preview: true
 banner: false
 featured: false
