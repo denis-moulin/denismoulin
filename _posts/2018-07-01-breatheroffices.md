@@ -9,7 +9,7 @@ categories:
 link: 'https://www.breatheroffices.com'
 matters: Product design
 cover: /assets/images/posts/breatheroffices--timeline.png
-preview: false
+preview: true
 is_post: true
 ---
 
