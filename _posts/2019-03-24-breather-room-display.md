@@ -28,7 +28,7 @@ No interface is the ultimate friction-less experience, and we aimed for it knowi
 
 Ideally, as a customer, the door would be unlocked as you approach it. The only conditions would be that you need an upcoming or ongoing reservation. Since most of our customers weren’t memorizing the digits but instead look up the code on their reservation tab in the app, the phone was naturally brought up as the “key” needed to unlock the doors.
 
-![Technical Flow](/assets/images/posts/brc_bud-internal-mvp.png "Technical flow for our prototype")
+![Technical Flow](/assets/images/posts/brc_bud-internal-mvp-1-.png "Technical flow for our prototype")
 
 The first issue to be solved was to make sure we could somehow “read” if a phone holds through the breather app a reservation matching our rules. Beacons were the ideal solution. The way I remember it is that a beacon could establish Bluetooth communication with a phone and ask for specific data from an app without waking the screen of the phone. I would even work if the app isn’t running (both actively and in the background).
 
