@@ -11,7 +11,7 @@ link: 'https://www.denismoulin.com/h/headlight/english'
 matters: 'Brand identity, Front-end development'
 cover: /assets/images/posts/headlight--website--cover__timeline.png
 header: /assets/images/posts/headlight--website--cover__post.png
-preview: false
+preview: true
 is_post: true
 ---
 Headlight empowers employees to build resilience against stress and improve their performance. I was responsible for elaborating the first batch of branding and for building Headlight’s landing page.
