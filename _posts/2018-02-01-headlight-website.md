@@ -18,6 +18,6 @@ Headlight empowers employees to build resilience against stress and improve thei
 
 #### External link
 
-[weareheadlight.com](https://weareheadlight.com)
+[weareheadlight.com](https://www.denismoulin.com/h/headlight/english)
 
 ![](../../assets/images/posts/headlight--website--content--0.png)
