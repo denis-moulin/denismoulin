@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="12px" viewBox="0 0 56 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>picto--narrow__blue</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M15.1715729,17 L36,17 L36,19 L15.1715729,19 L18.4142136,22.2426407 L17,23.6568542 L11.3431458,18 L17,12.3431458 L18.4142136,13.7573593 L15.1715729,17 Z M0.828427125,17 L-2.41421356,13.7573593 L-1,12.3431458 L4.65685425,18 L-1,23.6568542 L-2.41421356,22.2426407 L0.828427125,19 L-20,19 L-20,17 L0.828427125,17 Z" id="path-1"></path>
+    </defs>
+    <g id="landing-d-home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-608.000000, -989.000000)">
+        <g id="The-question" transform="translate(268.000000, 977.000000)">
+            <g id="icon/picto/effective" transform="translate(360.000000, 0.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Combined-Shape"></g>
+                <g id="color/plain/blue-bright" mask="url(#mask-2)" fill="#1057E8" fill-rule="evenodd">
+                    <g transform="translate(-20.000000, -12.000000)" id="Rectangle-6">
+                        <rect x="0" y="0" width="60" height="60"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

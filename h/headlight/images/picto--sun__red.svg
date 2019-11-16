@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>picto__sun--red</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M17,0 L19,0 L19,10 L17,10 L17,0 Z M30.0208153,4.56497116 L31.4350288,5.97918472 L24.363961,13.0502525 L22.9497475,11.636039 L30.0208153,4.56497116 Z M36,17 L36,19 L26,19 L26,17 L36,17 Z M31.4350288,30.0208153 L30.0208153,31.4350288 L22.9497475,24.363961 L24.363961,22.9497475 L31.4350288,30.0208153 Z M19,36 L17,36 L17,26 L19,26 L19,36 Z M5.97918472,31.4350288 L4.56497116,30.0208153 L11.636039,22.9497475 L13.0502525,24.363961 L5.97918472,31.4350288 Z M-1.8e-15,19 L-1.8e-15,17 L10,17 L10,19 L-1.8e-15,19 Z M4.56497116,5.97918472 L5.97918472,4.56497116 L13.0502525,11.636039 L11.636039,13.0502525 L4.56497116,5.97918472 Z" id="path-1"></path>
+    </defs>
+    <g id="landing-d-home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-620.000000, -3971.000000)">
+        <g id="The-question" transform="translate(269.000000, 3971.000000)">
+            <g id="icon/picto/resilience-alt" transform="translate(351.000000, 0.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="form" fill="#979797" fill-rule="nonzero" xlink:href="#path-1"></use>
+                <g id="color/plain/red" mask="url(#mask-2)" fill="#DE2222" fill-rule="evenodd">
+                    <rect id="Rectangle-6" x="0" y="0" width="36" height="36"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
