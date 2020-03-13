@@ -5,7 +5,7 @@ description: 'Hopper is on a mission to make booking travel faster, easier, and 
 role: Product designer
 date-infos: 2020-Present
 externallink: https://hopper.com
-cover:
+cover: hopper-logo.svg
 categories:
   - experience
 is_post: true
