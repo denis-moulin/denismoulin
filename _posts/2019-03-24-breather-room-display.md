@@ -14,7 +14,7 @@ matters: Product Design
 header: /assets/images/posts/bud-post.png
 preview: true
 banner: false
-featured: true
+featured: false
 is_post: true
 banners: none
 ---
