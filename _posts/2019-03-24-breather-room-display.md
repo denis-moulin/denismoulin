@@ -11,7 +11,7 @@ categories:
 link: https://breather.com
 matters: Product Design
 header: /assets/images/posts/bud-post.png
-preview: true
+preview: false
 banner: false
 featured: false
 is_post: true
