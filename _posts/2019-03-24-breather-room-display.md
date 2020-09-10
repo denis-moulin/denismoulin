@@ -1,21 +1,20 @@
 ---
 layout: post
 title: Breather Room Display
-date: '2019-03-24 09:15:16'
-description: >-
-  Breather is a service offering meeting rooms to book from an hour up to
-  several consecutive days. Bookings can be completed via the website or the
-  mobile app. In 2018, we've internally prototype a better way to access our
+date: 2019-03-24 09:15:16
+description: Breather is a service offering meeting rooms to book from an hour
+  up to several consecutive days. Bookings can be completed via the website or
+  the mobile app. In 2018, we've internally prototype a better way to access our
   spaces.
 categories:
   - read
   - featured
-link: 'https://breather.com'
+link: https://breather.com
 matters: Product Design
 header: /assets/images/posts/bud-post.png
 preview: true
 banner: false
-featured: false
+featured: true
 is_post: true
 banners: none
 ---
