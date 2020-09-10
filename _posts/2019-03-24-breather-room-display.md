@@ -8,7 +8,6 @@ description: Breather is a service offering meeting rooms to book from an hour
   spaces.
 categories:
   - read
-  - featured
 link: https://breather.com
 matters: Product Design
 header: /assets/images/posts/bud-post.png
