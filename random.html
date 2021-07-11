@@ -2,8 +2,14 @@
   <head>
     <meta charset="UTF-8">
     <title></title>
+    <style>
+      html{
+        font-size: 62.5%;
+      }
+    </style>
   </head>
   <body>
+    <div id="message"></div>
   </body>
   <script>
     var myArray = [
@@ -26,6 +32,6 @@
       "🌳 Up Mont-Royal"
     ];
     var randomItem = myArray[Math.floor(Math.random()*myArray.length)];
-    document.body.innerHTML = randomItem;
+    document.querySelector('#message') = randomItem;
   </script>
 </html>
