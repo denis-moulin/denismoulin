@@ -12,26 +12,34 @@
     <div id="message"></div>
   </body>
   <script>
-    var myArray = [
+    var shopping = [
       "Cafe Gamba",
       "Shop for cooking",
-      "Parc Outremont",
       "Homedepot",
+      "Cafe Edmont",
       "Public Library",
       "Buy Flowers",
       "Swirl ice-cream",
       "Ripples ice-cream",
-      "Piscine Outremont",
       "Cafe Eclair",
       "Paint on balcony",
       "Dirt on balcony",
       "Bubble tea",
-      "Habitat 67",
       "Dieu du ciel",
       "Jean Coutu",
-      "🌳 Up Mont-Royal"
     ];
-    var randomItem = myArray[Math.floor(Math.random()*myArray.length)];
-    document.body.innerHTML = randomItem;
+    var nature = [
+      "Parc Outremont",
+      "Public Library",
+      "Piscine Outremont",
+      "Habitat 67",
+      "Outremont Hills",
+      "Jardin botanique",
+      "Up Mont-Royal"
+    ];
+
+    var randomShopping = shopping[Math.floor(Math.random() * shopping.length)];
+    var randomNature = nature[Math.floor(Math.random() * nature.length)];
+    document.body.innerHTML = "💈 "+randomShopping "& 🌳 "+randomNature ;
   </script>
 </html>
