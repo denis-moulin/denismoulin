@@ -3,10 +3,22 @@
     <meta charset="UTF-8">
     <title></title>
     <style>
+      html{
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        font-size: 62.5%;
+      }
+      #results{
+        font-size: 10vh;
+        text-align: center;
+      }
     </style>
   </head>
   <body>
-    <div id="results"></div>
+    <div id="results">
+      <p id="resultShopping"></p>
+      <p>&</p>
+      <p id="resultNature"></p>
+    </div>
   </body>
   <script>
     var shopping = [
@@ -38,6 +50,7 @@
     var randomShopping = shopping[Math.floor(Math.random()*shopping.length)];
     var randomNature = nature[Math.floor(Math.random()*nature.length)];
 
-    document.getElementById("results").innerHTML = "💈 " + randomShopping + " & " + "🌳 " + randomNature;
+    document.getElementById("resultShopping").innerHTML = "💈 " + randomShopping;
+    document.getElementById("resultNature").innerHTML = "🌳 " + randomNature;
   </script>
 </html>
