@@ -9,7 +9,7 @@
     </style>
   </head>
   <body>
-    <div id="message"></div>
+    <div id="nature"></div>
   </body>
   <script>
     var shopping = [
@@ -41,7 +41,8 @@
     var randomShopping = shopping[Math.floor(Math.random()*shopping.length)];
     var randomNature = nature[Math.floor(Math.random()*nature.length)];
     
-    let div = document.createElement('div');
-    div.innerHTML = randomShopping;
+    var nature = document.getElementById(nature);
+
+    nature.innerHTML = randomNatute;
   </script>
 </html>
