@@ -6,6 +6,7 @@
     </style>
   </head>
   <body>
+    <div id="results"></div>
   </body>
   <script>
     var shopping = [
@@ -37,6 +38,6 @@
     var randomShopping = shopping[Math.floor(Math.random()*shopping.length)];
     var randomNature = nature[Math.floor(Math.random()*nature.length)];
 
-    document.body.innerHTML = "💈" + randomShopping + " & " + "🌳" + randomNature;
+    document.getElementById("results").innerHTML = "💈 " + randomShopping + " & " + "🌳 " + randomNature;
   </script>
 </html>
