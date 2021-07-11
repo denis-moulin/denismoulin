@@ -3,13 +3,9 @@
     <meta charset="UTF-8">
     <title></title>
     <style>
-      html{
-        font-size: 62.5%;
-      }
     </style>
   </head>
   <body>
-    <div id="nature"></div>
   </body>
   <script>
     var shopping = [
@@ -40,9 +36,7 @@
 
     var randomShopping = shopping[Math.floor(Math.random()*shopping.length)];
     var randomNature = nature[Math.floor(Math.random()*nature.length)];
-    
-    var nature = document.getElementById(nature);
 
-    nature.innerHTML = randomNatute;
+    document.body.innerHTML = "💈" + randomShopping + " & " + "🌳" + randomNature;
   </script>
 </html>
