@@ -38,8 +38,10 @@
       "Up Mont-Royal"
     ];
 
-    var randomShopping = shopping[Math.floor(Math.random() * shopping.length)];
-    var randomNature = nature[Math.floor(Math.random() * nature.length)];
-    document.body.innerHTML = "💈 "randomShopping "& 🌳 "randomNature ;
+    var randomShopping = shopping[Math.floor(Math.random()*shopping.length)];
+    var randomNature = nature[Math.floor(Math.random()*nature.length)];
+    
+    let div = document.createElement('div');
+    div.innerHTML = randomShopping;
   </script>
 </html>
