@@ -1,6 +1,20 @@
 <html lang="en">
   <head>
-    <meta charset="UTF-8">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Day randomizer</title>
+    <meta name="description" content="Find something to do">
+    <meta property="og:url" content="https://denismoulin.com" />
+    <meta property="og:title" content="{% if page.title %}{{ page.title }} by {{ site.author }} {% else %} {{ site.title }} {% endif %}" />
+    <meta property="og:description" content="{% if page.description %} {{ page.description }} – {{ site.author }} {% else %} My name is {{ site.author }}, I'm a multi-disciplinary designer based in {{ site.local }} {% endif %}" />
+    <meta property="og:image" content="https://denismoulin.com/assets/icons/twitter-card.png" />
+    <!-- Icon icon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/icons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/icons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/icons/favicon-16x16.png">
+    <meta name="msapplication-TileColor" content="#603cba">
+    <meta name="theme-color" content="#EEEEEE">
     <title></title>
     <style>
       html, body{
@@ -38,7 +52,7 @@ background-image: linear-gradient(19deg, #FAACA8 0%, #DDD6F3 100%);
         <li id="resultShopping"></li>
         <li id="resultNature"></li>
       </ul>
-    </div></canvas>
+    </div>
   </body>
   <script>
     var shopping = [
